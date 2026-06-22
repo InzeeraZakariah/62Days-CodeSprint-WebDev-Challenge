@@ -2,7 +2,7 @@
     
 # 🐍 Ultimate Python Repository 📖
 
-> An interactive static website for learning and browsing structured Python and Tkinter programs — with syntax-highlighted code, rendered markdown guides, and a brutalist dark theme.
+### An interactive static website for learning and browsing structured Python and Tkinter programs — with syntax-highlighted code, rendered markdown guides, and a brutalist dark theme.
 
 </div>
 
@@ -14,6 +14,12 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
     <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="MIT License">
 </p>
+
+---
+
+## 🔗 Live Site — [GitHub Pages](https://rhalbhavi.github.io/ultimate-python-repository.github.io/)
+
+- **Source Repository** — [github.com/rhalbhavi/Python-Programming-and-Tkinter](https://github.com/rhalbhavi/Python-Programming-and-Tkinter)
 
 ---
 
@@ -175,13 +181,6 @@ python3 generate_manifest.py
 
 4. **Update the topic overview `.md` file** if needed.
 5. **Serve and verify** — the new content appears in the sidebar and is rendered on click.
-
----
-
-## 🔗 Links
-
-- **Live Site** — [GitHub Pages](https://rhalbhavi.github.io/ultimate-python-repository.github.io/)
-- **Source Repository** — [github.com/rhalbhavi/Python-Programming-and-Tkinter](https://github.com/rhalbhavi/Python-Programming-and-Tkinter)
 
 ---
 
