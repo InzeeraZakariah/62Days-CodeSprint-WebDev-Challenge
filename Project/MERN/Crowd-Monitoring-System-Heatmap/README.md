@@ -13,7 +13,7 @@
 * <b>[📝 Overview](#overview)</b>
 
   * [🧩 Core Features](#core-features)
-* <b>[⚙️ Technology Stack](#technology-stack-mern)</b>
+* <b>[⚙️ Technology Stack](#technology-stack)</b>
 * <b>[🔄 Workflow](#workflow)</b>
   * [🖧 Diagram](#diagram)
   * [📝 Steps](#steps)
