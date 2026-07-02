@@ -1,8 +1,8 @@
 <div align="center">
 
-## 🐈‍⬛ The Definitive Guide to Git, GitHub, and Open Source Contribution
+# 🐈‍⬛ The Definitive Guide to Git, GitHub, and Open Source Contribution
 
-### An interactive website providing a comprehensive guide to version control with Git and contributing to open-source projects on GitHub.
+## An interactive website providing a comprehensive guide to version control with Git and contributing to open-source projects on GitHub.
 
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
