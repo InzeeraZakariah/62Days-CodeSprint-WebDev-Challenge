@@ -17,9 +17,9 @@
 
 ---
 
-## 🔗 Live Site — [GitHub Pages](https://rhalbhavi.github.io/ultimate-c-repository.github.io/)
+## 🔗 Live Site — [GitHub Pages](https://riyahal.github.io/ultimate-c-repository.github.io/)
 
-- **Source Repository** — [github.com/rhalbhavi/C-Programming-and-DSA](https://github.com/rhalbhavi/C-Programming-and-DSA)
+- **Source Repository** — [github.com/riyahal/C-Programming-and-DSA](https://github.com/riyahal/C-Programming-and-DSA)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## ✨ About
 
-This website serves as a **visual, interactive documentation platform** for the [C-Programming-and-DSA](https://github.com/rhalbhavi/C-Programming-and-DSA) repository. Instead of browsing raw files on GitHub, you get:
+This website serves as a **visual, interactive documentation platform** for the [C-Programming-and-DSA](https://github.com/riyahal/C-Programming-and-DSA) repository. Instead of browsing raw files on GitHub, you get:
 
 - **Syntax-highlighted C code** rendered directly from the source files
 - **Rendered Markdown guides** for conceptual topics
