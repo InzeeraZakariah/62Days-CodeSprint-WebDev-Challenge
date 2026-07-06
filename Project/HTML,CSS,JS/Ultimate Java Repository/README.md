@@ -1,8 +1,8 @@
 <div align="center">
     
-# ⚙️ Ultimate C Repository 📖
+# ♨️ Ultimate Java Repository 📖
 
-### An interactive static website for learning and browsing structured C and DSA programs — with syntax-highlighted code, rendered markdown guides, and a brutalist dark theme.
+> An interactive static website for learning and browsing structured Java programs — with syntax-highlighted code, rendered markdown guides, and a clean, searchable layout.
 
 </div>
 
@@ -10,36 +10,34 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/Java-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
     <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="MIT License">
 </p>
 
 ---
 
-- **Source Repository** — [github.com/rhalbhavi/C-Programming-and-DSA](https://github.com/riyahal/C-Programming-and-DSA)
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 18-30-05" src="https://github.com/user-attachments/assets/ce3cb6c0-b043-4ea9-bbd5-bacb25193d86" />
 
----
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 18-30-23" src="https://github.com/user-attachments/assets/6793da1e-4839-4507-83af-8ed3be0b5136" />
 
-<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/9fb535bc-297e-4e44-a989-bbeb3b073691" />
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 18-31-37" src="https://github.com/user-attachments/assets/b25f0ee1-f001-4823-a2c0-709032e6d8e7" />
 
-<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/f3f06dee-e57a-4184-8cff-1f83dbae01fb" />
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 18-43-53" src="https://github.com/user-attachments/assets/83879875-ad35-46cf-880b-7dc5e5fa589d" />
 
-<img width="1464" height="890" alt="image" src="https://github.com/user-attachments/assets/65a069d8-2339-4d07-b04e-7c6388786fda" />
+<img width="1313" height="924" alt="Screenshot from 2026-07-06 19-38-19" src="https://github.com/user-attachments/assets/2901526f-c30c-4cfe-8291-741951c5e6ce" />
 
 ---
 
 ## ✨ About
 
-This website serves as a **visual, interactive documentation platform** for the [C-Programming-and-DSA](https://github.com/riyahal/C-Programming-and-DSA) repository. Instead of browsing raw files on GitHub, you get:
+This website serves as a **visual, interactive documentation platform** for Java programs. Instead of browsing raw files on GitHub, you get:
 
-- **Syntax-highlighted C code** rendered directly from the source files
+- **Syntax-highlighted Java code** rendered directly from the source files
 - **Rendered Markdown guides** for conceptual topics
 - **Accordion sidebar navigation** with expandable folders
 - **Dropdown topic menus** for jumping between subjects
 - **Brutalist dark UI** with scanline animations
-
-All content is pulled live from the repository's file tree — update the repo files and the site stays in sync.
 
 ---
 
@@ -47,7 +45,7 @@ All content is pulled live from the repository's file tree — update the repo f
 
 | Feature | Description |
 |---|---|
-| **Live Code Rendering** | C `.c` files are fetched and displayed with Prism.js syntax highlighting |
+| **Live Code Rendering** | Java `.java` files are fetched and displayed with Prism.js syntax highlighting |
 | **Markdown Rendering** | `.md` overview files are parsed with `marked` and displayed as styled HTML |
 | **Nested Sidebar Navigation** | Accordion-style tree matching the repository's folder structure |
 | **Topic Dropdowns** | Quick navigation via hover-reveal menus in the header |
@@ -67,55 +65,53 @@ All content is pulled live from the repository's file tree — update the repo f
 | **JavaScript (Vanilla)** | Core application logic — routing, sidebar, content fetching and rendering | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="110"> |
 | **Python** | `generate_manifest.py` — walks the repo and produces `tree_manifest.json` | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100"> |
 | [marked.js](https://marked.js.org/) | Markdown → HTML parsing for `.md` overview files | <img src="https://img.shields.io/badge/marked.js-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="marked.js" width="100"> |
-| [Prism.js](https://prismjs.com/) | C syntax highlighting for `.c` code blocks | <img src="https://img.shields.io/badge/Prism.js-1E2A3A?style=for-the-badge&logo=javascript&logoColor=white" alt="Prism.js" width="100"> |
+| [Prism.js](https://prismjs.com/) | Syntax highlighting for source code files (Java) | <img src="https://img.shields.io/badge/Prism.js-1E2A3A?style=for-the-badge&logo=javascript&logoColor=white" alt="Prism.js" width="100"> |
 | **`tree_manifest.json`** | Flat-array file tree used by the frontend to render the sidebar and content | <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" width="80"> |
 
 ---
 
 ## 🗂️ Project Structure
 
-```
-.
-├── index.html                          # Main entry point
-├── style.css                           # All styling (brutalist theme)
-├── script.js                           # Core logic: routing, sidebar, content rendering
-├── tree_manifest.json                  # File tree index (generated)
-├── generate_manifest.py                # Script to regenerate tree_manifest.json
-├── README.md                           # This file
-│
-├── Core Foundations.md                 # Topic overview (markdown)
-├── Control Flow.md                     # Topic overview (markdown)
-├── Data Structures and Memory.md       # Topic overview (markdown)
-├── Advanced Data Structures and Algorithms.md  # Topic overview (markdown)
-│
-├── Variables/                          # Subtopic folders with .c files
-├── Input and Output Functions/
-├── Operators/
-├── Type Conversion/
-├── Preprocessor Directives and Macros/
-├── Conditional Statements/
-├── Looping Statements/
-├── Jumping Statements/
-├── Arrays/
-├── Strings/
-├── Functions/
-├── Pointers/
-├── Dynamic Memory Allocation/
-├── File Handling/
-├── Structures/
-├── Unions/
-├── Linked Lists/
-├── Stacks/
-├── Queues/
-├── Trees/
-├── Graphs/
-├── Searching and Sorting/
-├── Examples/
-└── ...
-```
+The repository is organized around Java topics and subtopics. Each top-level topic has an overview `.md` file and folders containing the standalone Java programs shown in the sidebar on the website.
+
+Top-level topics and their subtopics used in this repo:
+
+- **🛠️ Core Foundations**
+   - Variables
+   - Type Casting
+   - Access Modifiers
+   - Wrapper Classes
+   - Auto-Boxing and Auto-Unboxing
+- **Conditional and Looping Statements**
+   - Conditional Statements
+   - Looping Statements
+- **Data Structures**
+   - Arrays
+   - Strings
+   - Methods
+- **Object-Oriented Programming (OOP)**
+   - Classes
+   - Objects
+   - Constructors
+   - Inheritance
+   - Interfaces
+   - Polymorphism
+   - Method Overloading and Overriding
+   - Exception Handling
+   - Threads and Runnable
+- **Java Database Connectivity (JDBC)**
+- **General Examples**
+
+Files of interest (examples present in this workspace):
+
+- `Access_Modifiers.java`
+- `Auto_Boxing_and_Auto_Unboxing.java`
+- `Type_Casting.java`
+- `Variables.java`
+- `Wrapper_Class.java`
 
 Each topic folder contains either:
-- Single `.c` files (directly rendered with syntax highlighting)
+- Single `.java` files (directly rendered with syntax highlighting)
 - A `.md` file (rendered as HTML)
 - Multiple files in subdirectories (shown as expandable sidebar groups)
 
@@ -126,8 +122,8 @@ Each topic folder contains either:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/abhisek2004/62Days-CodeSprint-WebDev-Challenge/tree/main/Project/HTML%2CCSS%2CJS/Ultimate%C%20Repository.git
-cd Ultimate-C-Repository
+git clone <this-repo-url>
+cd "Ultimate-Java-Repository"
 ```
 
 ### 2. Regenerate the File Manifest (Optional)
@@ -142,19 +138,12 @@ This overwrites `tree_manifest.json` so the frontend knows about the new structu
 
 ### 3. Serve the Site Locally
 
-Since the site fetches files via `fetch()`, it **must** be served over HTTP — opening `index.html` directly from the filesystem won't work due to CORS restrictions.
-
-**Option A — Python HTTP server (no install needed):**
+The frontend fetches files from the repo, so serve over HTTP when testing locally.
 
 ```bash
 python3 -m http.server 8000
+# then open http://localhost:8000
 ```
-
-Then open [http://localhost:8000](http://localhost:8000).
-
-**Option B — VS Code Live Server:**
-
-Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension, right-click `index.html`, and select **Open with Live Server**.
 
 ---
 
@@ -173,7 +162,7 @@ Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ri
    - The sidebar and main content area are rebuilt via `resolveAndBuildContent()`
 
 4. **Content Rendering** — For each file in the current subtree:
-   - `.c` → fetched with `fetch()`, displayed inside a `<pre><code>` block, then highlighted with `Prism.highlightElement()`
+   - `.java` → fetched with `fetch()`, displayed inside a `<pre><code>` block, then highlighted with `Prism.highlightElement()`
    - `.md` → fetched and parsed with `marked.parse()`, rendered as HTML
    - `.png` → displayed as an `<img>` tag
    - Folders → recursively expanded with accordion controls
@@ -184,7 +173,7 @@ Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ri
 
 ## ✏️ Adding New Content
 
-1. **Add a new subtopic folder** (e.g., `NewTopic/SubFolder/`) with your `.c`, `.md`, or `.png` files.
+1. **Add a new subtopic folder** (e.g., `NewTopic/SubFolder/`) with your `.java`, `.md`, or `.png` files.
 2. **Register the subtopic** in `script.js` under the `topicsData` object, specifying the parent topic and optionally a `preferredOrder` array for sidebar sorting.
 3. **Regenerate the manifest:**
 
