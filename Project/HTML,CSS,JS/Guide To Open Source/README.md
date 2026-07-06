@@ -1,10 +1,8 @@
 <div align="center">
 
-## 🐈‍⬛ The Definitive Guide to Git, GitHub, and Open Source Contribution
+# 🐈‍⬛ The Definitive Guide to Git, GitHub, and Open Source Contribution
 
-### An interactive website providing a comprehensive guide to version control with Git and contributing to open-source projects on GitHub.
-
-### Live Preview: [https://rhalbhavi.github.io/definitive-guide-to-open-source/](https://rhalbhavi.github.io/definitive-guide-to-open-source/)
+## An interactive website providing a comprehensive guide to version control with Git and contributing to open-source projects on GitHub.
 
 <br>
 <p>
@@ -46,18 +44,6 @@ The project is built with a simple and clean structure:
 ├── 🎨 style.css    # The CSS file for all styling, layout, and animations.
 └── ⚙️ script.js    # The JavaScript file for interactive features like smooth scrolling.
 ```
-
----
-
-## Screenshots
-
-<img width="1648" height="923" alt="image" src="https://github.com/user-attachments/assets/2d6cb97e-2ab8-483c-aa03-a2eccde13919" />
-
-<img width="1648" height="919" alt="image" src="https://github.com/user-attachments/assets/67378c5a-5201-4d1d-81af-0633cf855319" />
-
-<img width="1648" height="855" alt="image" src="https://github.com/user-attachments/assets/a01fcf87-3e21-42c5-81c1-965f0075587b" />
-
-<img width="1648" height="919" alt="image" src="https://github.com/user-attachments/assets/33dc5721-a59a-4131-99e1-7d9d426c0276" />
 
 ---
 
