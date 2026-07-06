@@ -17,13 +17,13 @@
 
 ---
 
-## 🔗 Live Site — (this repo)
+<img width="1313" height="924" alt="image" src="https://github.com/user-attachments/assets/57bec857-5636-4503-8111-c0410695d818" />
 
-- **Source Repository** — This workspace contains the Java examples and overview guides for core Java topics.
+<img width="1313" height="924" alt="image" src="https://github.com/user-attachments/assets/3c0700f5-c21f-41e8-bfc7-580856630241" />
 
----
+<img width="1313" height="924" alt="image" src="https://github.com/user-attachments/assets/d008ffb9-883a-42ef-b01f-a6932046947b" />
 
-
+<img width="1313" height="924" alt="image" src="https://github.com/user-attachments/assets/70523e5e-2656-44b7-bde6-eb2b37f381cf" />
 
 ---
 
