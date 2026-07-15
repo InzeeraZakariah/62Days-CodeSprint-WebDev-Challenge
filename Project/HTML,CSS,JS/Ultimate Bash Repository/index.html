@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💻 Ultimate Bash Repository</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Titillium+Web:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet" />
+    
+    <link rel="stylesheet" href="style.css?v=2">
+<body>
+
+    <div class="scanlines"></div>
+
+    <header>
+        <h1><a href="index.html" style="color: #ffffff; text-decoration: none;">💻 Ultimate Bash Repository 📖</a></h1>
+        <nav>
+            <ul id="topic-navigation">
+                <li class="nav-item">
+                    <span class="nav-topic-title" data-topic="Bash Fundamentals">🔩 Bash Fundamentals</span>
+                    <ul class="dropdown-menu" data-topic="Bash Fundamentals"></ul>
+                </li>
+                <li class="nav-item">
+                    <span class="nav-topic-title" data-topic="Scripting Constructs">📜 Scripting Constructs</span>
+                    <ul class="dropdown-menu" data-topic="Scripting Constructs"></ul>
+                </li>
+                <li class="nav-item">
+                    <span class="nav-topic-title" data-topic="Practical Examples">🛠️ Practical Examples</span>
+                    <ul class="dropdown-menu" data-topic="Practical Examples"></ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="dashboard-split-container home-view" id="main-split-layout">
+        
+        <aside class="sidebar-index-container" id="sidebar-table-of-contents">
+            <h3 class="sidebar-title">📋 Contents</h3>
+            <div id="sidebar-tree-wrapper">
+                <p class="placeholder-text" style="font-size: 0.95rem;">Select a topic to view its content outline map.</p>
+            </div>
+        </aside>
+
+        <main class="main-content-wrapper">
+            <section class="content-section">
+                <h2 id="current-subtopic-title">🎯 Overview</h2>
+                
+                <div id="programs-container">
+                    <div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem auto;">
+                        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" height="40">
+                    </div>
+
+                    <p>Welcome to the <b>Ultimate Bash Repository</b>. This is an interactive collection of shell scripts for automating tasks, managing systems, and learning the power of the command line.</p>
+                    <br>
+                    <p>This website features <b>structured and well-documented code snippets, organized by topic, making it ideal for learning or quick reference for both beginners and experienced developers on Unix-like systems.</b></p>
+
+                    <br><hr><br>
+                    
+                    <h2>🚀 Technologies Covered</h2>
+                    <p>This repository covers the essential building blocks of Bash scripting:</p><br>
+                    <ul>
+                        <li><strong>Bash (Bourne Again SHell):</strong> The default command-line interpreter for most Linux distributions and macOS.</li>
+                        <li><strong>Core Utilities:</strong> Standard Unix commands like `grep`, `sed`, `awk`, `find`, and `xargs` that form the backbone of powerful scripts.</li>
+                        <li><strong>Shell Scripting:</strong> Writing scripts to automate repetitive tasks, from simple file operations to complex system administration workflows.</li>
+                    </ul>
+
+                    <br>
+                    <hr>
+                    <br>
+
+                    <h2>📁 Core Topics</h2>
+                    <div class="nested-group-container">
+                        <p><strong>🔩 Bash Fundamentals</strong></p>
+                        <ul>
+                            <li><a href="#" class="page-link" data-parent="Bash Fundamentals" data-path="Bash_Fundamentals/Basic_Syntax">Basic Syntax</a></li>
+                            <li><a href="#" class="page-link" data-parent="Bash Fundamentals" data-path="Bash_Fundamentals/Variables">Variables</a></li>
+                            <li><a href="#" class="page-link" data-parent="Bash Fundamentals" data-path="Bash_Fundamentals/Permissions">Permissions</a></li>
+                        </ul>
+                        <br>
+                        <p><strong>📜 Scripting Constructs</strong></p>
+                        <ul>
+                            <li><a href="#" class="page-link" data-parent="Scripting Constructs" data-path="Scripting_Constructs/Conditional_Logic">Conditional Logic</a></li>
+                            <li><a href="#" class="page-link" data-parent="Scripting Constructs" data-path="Scripting_Constructs/Loops">Loops</a></li>
+                            <li><a href="#" class="page-link" data-parent="Scripting Constructs" data-path="Scripting_Constructs/Functions">Functions</a></li>
+                        </ul>
+                        <br>
+                        <p><strong>🛠️ Practical Examples</strong></p>
+                        <ul>
+                            <li><a href="#" class="page-link" data-parent="Practical Examples" data-path="Practical_Examples/File_Management">File Management</a></li>
+                            <li><a href="#" class="page-link" data-parent="Practical Examples" data-path="Practical_Examples/System_Information">System Information</a></li>
+                        </ul>
+                    </div>
+
+                    <br>
+
+                </div>
+            </section>
+        </main>
+        
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-markup.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-css.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-php.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-bash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js"></script>
+
+    <div id="to-top" title="Go to top">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#ffe563" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 15 12 9 6 15"></polyline>
+        </svg>
+        <span>To Top</span>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

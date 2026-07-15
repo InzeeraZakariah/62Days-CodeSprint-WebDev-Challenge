@@ -1,0 +1,114 @@
+[
+  {
+    "path": "Bash_Fundamentals",
+    "type": "tree"
+  },
+  {
+    "path": "Practical_Examples",
+    "type": "tree"
+  },
+  {
+    "path": "Scripting_Constructs",
+    "type": "tree"
+  },
+  {
+    "path": "Bash Fundamentals Overview.md",
+    "type": "blob"
+  },
+  {
+    "path": "LICENSE",
+    "type": "blob"
+  },
+  {
+    "path": "Practical Examples Overview.md",
+    "type": "blob"
+  },
+  {
+    "path": "Scripting Constructs Overview.md",
+    "type": "blob"
+  },
+  {
+    "path": "Bash_Fundamentals/Basic_Syntax",
+    "type": "tree"
+  },
+  {
+    "path": "Bash_Fundamentals/Permissions",
+    "type": "tree"
+  },
+  {
+    "path": "Bash_Fundamentals/Variables",
+    "type": "tree"
+  },
+  {
+    "path": "Bash_Fundamentals/Basic_Syntax/01_HelloWorld.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Bash_Fundamentals/Basic_Syntax/02_Comments_and_Shebang.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Bash_Fundamentals/Permissions/01_Making_Scripts_Executable.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Bash_Fundamentals/Variables/01_Using_Variables.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Bash_Fundamentals/Variables/02_Special_Variables.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Practical_Examples/File_Management",
+    "type": "tree"
+  },
+  {
+    "path": "Practical_Examples/System_Information",
+    "type": "tree"
+  },
+  {
+    "path": "Practical_Examples/File_Management/01_Create_And_Write.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Practical_Examples/File_Management/02_Backup_Script.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Practical_Examples/System_Information/01_Disk_Usage.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Scripting_Constructs/Conditional_Logic",
+    "type": "tree"
+  },
+  {
+    "path": "Scripting_Constructs/Functions",
+    "type": "tree"
+  },
+  {
+    "path": "Scripting_Constructs/Loop",
+    "type": "tree"
+  },
+  {
+    "path": "Scripting_Constructs/Conditional_Logic/01_If_Else.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Scripting_Constructs/Conditional_Logic/02_Case_Statements.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Scripting_Constructs/Functions/01_Defining_Functions.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Scripting_Constructs/Loop/01_For_Loop.sh",
+    "type": "blob"
+  },
+  {
+    "path": "Scripting_Constructs/Loop/02_While_Loop.sh",
+    "type": "blob"
+  }
+]
