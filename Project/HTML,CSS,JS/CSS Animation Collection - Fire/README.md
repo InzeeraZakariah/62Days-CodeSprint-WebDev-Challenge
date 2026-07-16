@@ -5,6 +5,11 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
+  ---
+
+  <img width="1530" height="904" alt="image" src="https://github.com/user-attachments/assets/02dfc3ba-ebd5-4efd-855a-287206a2f5ce" />
+  <img width="1530" height="904" alt="image" src="https://github.com/user-attachments/assets/541e60f5-0d01-4157-a6f0-ff0ab46256b1" />
+
 </div>
 
 ### A single-page collection of fire-themed CSS animations. Each animation has its own card with:
